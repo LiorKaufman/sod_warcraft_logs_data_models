@@ -1,7 +1,7 @@
 import requests
 import os
 import json
-
+import pandas as pd
 token_url = "https://www.warcraftlogs.com/oauth/token"
 
 
@@ -73,7 +73,6 @@ def main():
       gameData
       guildRank
       name
-      zoneRankings
       server {
       name
       id 
@@ -98,7 +97,25 @@ def main():
         }
     }
     }"""
-
+    query_g = """
+    query {
+    guildData {
+        guild(id: "YOUR_GUILD_ID") {
+        name
+        members {
+            character {
+            id
+            name
+            class {
+                id
+                name
+            }
+            }
+        }
+        }
+    }
+    }
+    """
     url = "https://www.warcraftlogs.com/api/v2/client"
     sod_url = "https://sod.warcraftlogs.com/api/v2/client"
     # print(response.json())
@@ -106,9 +123,11 @@ def main():
     res = get_data(query=char_data_query, url=sod_url,
                    name="donalfonso", server="wild-growth", region="us")
     print(res)
-    res = get_data(query=tt, url=sod_url,
-                   )
-    print(res)
+    # res = get_data(query=tt, url=sod_url)
+    df = pd.DataFrame(res)
+    print(df.head(4))
+    df.to_csv("hola.csv")
+    df.to_parquet("mypareq.parquet")
 
 
 if __name__ == "__main__":
