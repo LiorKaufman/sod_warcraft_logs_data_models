@@ -12,11 +12,8 @@ class WarcraftLogsAPISettings(BaseSettings):
     client_secret: str
     token_url: str = "https://www.warcraftlogs.com/oauth/token"
 
-    # Define other settings as needed
-
     class Config:
         # Specifies that Pydantic should read environment variables from a .env file
-        # and environment, with environment variables taking precedence.
         env_file = ".env"
         env_file_encoding = 'utf-8'
 
@@ -58,7 +55,25 @@ class WarcraftLogsAPI:
         return None
 
     def get_report_data_by_report_id(self, report_id: str) -> Dict[str, Any]:
-        pass
+        query = """query ($report_id: String!) {
+                            reportData {
+                                report(code: $report_id) {
+                                masterData(translate: true) {
+                            actors(type: "Player") {
+                            id
+                            gameID
+                            server
+                            subType
+                            petOwner
+                            name
+                            }
+                                }
+                                }
+                            }
+                            
+}  
+"""
+        return self.get_data(query=query, report_id="6GvjfAqhQ8tykgwm")
 
     def get_character_data_by_character_id(self, character_id: str) -> Dict[str, Any]:
         pass
@@ -71,26 +86,3 @@ class WarcraftLogsAPI:
             response = session.get(url=self.settings.api_endpoint, json=data)
 
             return response.json()
-
-
-t = WarcraftLogsAPI()
-char_data_query = """query {
-  characterData {
-    character(name: "Donalfonso", serverSlug: "wild-growth", serverRegion: "US") {
-      id
-      canonicalID
-      classID
-      gameData
-      guildRank
-      name
-      server {
-      name
-      id 
-      }
-      }
-  }
-}
-"""
-
-dd = t.get_data(char_data_query)
-print(dd)
