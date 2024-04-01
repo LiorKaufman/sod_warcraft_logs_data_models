@@ -28,13 +28,13 @@ def main():
         report_data = extractor.get_report_data_by_report_id(report_id)
 
         # JSON filename including report ID for identification
-        # Since the data of the report is not supposed to change overwriting the file should not be an issue.
         json_filename = save_dir / f"report_{report_id}_data.json"
         loader.upload_as_json(report_data, json_filename, time_stamp=True)
 
         # Data contains nested objects
         df = pd.json_normalize(report_data)
         print(df.head(3))
+
         # Parquet filename
         # parquet_filename = save_dir / f"report_{report_id}_data.parquet"
         # Save the report data as Parquet

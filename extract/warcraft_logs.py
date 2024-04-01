@@ -4,6 +4,7 @@ from pydantic import BaseModel
 import json
 import os
 from pydantic_settings import BaseSettings
+import logging
 
 
 class WarcraftLogsAPISettings(BaseSettings):
@@ -55,34 +56,71 @@ class WarcraftLogsAPI:
         return None
 
     def get_report_data_by_report_id(self, report_id: str) -> Dict[str, Any]:
-        query = """query ($report_id: String!) {
-                            reportData {
-                                report(code: $report_id) {
-                                masterData(translate: true) {
-                            actors(type: "Player") {
+        query = """
+        query ($report_id: String!) {
+            reportData {
+                report(code: $report_id) {
+                    code
+                    startTime
+                    endTime
+                    region {
+                        id 
+                        name
+                        compactName
+                    }
+                    guild{
+                        id
+                        name 
+                    }
+                    fights (killType: Encounters){
+                        id
+                        encounterID
+                        name
+                        kill
+                        endTime
+                        startTime
+                        size
+                        originalEncounterID
+                    }
+                    rankedCharacters {
+                        id
+                        canonicalID
+                        name
+                        classID
+                        level
+                        
+                    }
+                    masterData(translate: true) {
+                        actors(type: "Player") {
                             id
                             gameID
                             server
                             subType
-                            petOwner
                             name
-                            }
-                                }
-                                }
-                            }
-                            
-}  
-"""
-        return self.get_data(query=query, report_id="6GvjfAqhQ8tykgwm")
+                        }
+                    }
+                }
+            }
+        }
+        """
+        return self.get_data(query=query, report_id=report_id)
 
     def get_character_data_by_character_id(self, character_id: str) -> Dict[str, Any]:
         pass
 
     def get_data(self, query: str, **kwargs):
-        # headers = {"Authorization": f"Bearer {read_token()}"}
         data = {"query": query, "variables": kwargs}
         with requests.Session() as session:
             session.headers = self.headers
-            response = session.get(url=self.settings.api_endpoint, json=data)
+            # Use POST for GraphQL queries
+            response = session.post(url=self.settings.api_endpoint, json=data)
+
+            # Check if the response status code is not 200
+            if response.status_code != 200:
+                # Log an error message with the status code and returned message
+                logging.error(f"""Failed to fetch data: HTTP {
+                              response.status_code} - {response.text}""")
+                # Decide how to handle errors, e.g., return None or a specific structure
+                return None
 
             return response.json()
