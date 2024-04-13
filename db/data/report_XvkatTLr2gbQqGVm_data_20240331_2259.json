@@ -1,0 +1,242 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "code": "XvkatTLr2gbQqGVm",
+                "startTime": 1710215886927,
+                "endTime": 1710221932723,
+                "region": {
+                    "id": 11,
+                    "name": "United States",
+                    "compactName": "US"
+                },
+                "guild": null,
+                "fights": [
+                    {
+                        "id": 3,
+                        "encounterID": 2925,
+                        "name": "Grubbis",
+                        "kill": true,
+                        "endTime": 864031,
+                        "startTime": 795620,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 9,
+                        "encounterID": 2928,
+                        "name": "Viscous Fallout",
+                        "kill": true,
+                        "endTime": 1363432,
+                        "startTime": 1278906,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 13,
+                        "encounterID": 2899,
+                        "name": "Crowd Pummeler 9-60",
+                        "kill": true,
+                        "endTime": 2008977,
+                        "startTime": 1910805,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 17,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": false,
+                        "endTime": 2426528,
+                        "startTime": 2370301,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 20,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": true,
+                        "endTime": 2943717,
+                        "startTime": 2795856,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 27,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": true,
+                        "endTime": 5215181,
+                        "startTime": 4934103,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 28,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": true,
+                        "endTime": 6045796,
+                        "startTime": 5650312,
+                        "size": 10,
+                        "originalEncounterID": null
+                    }
+                ],
+                "rankedCharacters": [
+                    {
+                        "id": 78435395,
+                        "canonicalID": 78435395,
+                        "name": "Santhe",
+                        "classID": 4,
+                        "level": 0
+                    },
+                    {
+                        "id": 79240576,
+                        "canonicalID": 79240576,
+                        "name": "Ozziiee",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 79529556,
+                        "canonicalID": 79529556,
+                        "name": "Foxberry",
+                        "classID": 8,
+                        "level": 0
+                    },
+                    {
+                        "id": 79530759,
+                        "canonicalID": 79530759,
+                        "name": "Nordicstar",
+                        "classID": 3,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578188,
+                        "canonicalID": 79578188,
+                        "name": "Remtrox",
+                        "classID": 10,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578189,
+                        "canonicalID": 79578189,
+                        "name": "Lamdar",
+                        "classID": 7,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578191,
+                        "canonicalID": 79578191,
+                        "name": "Warsol",
+                        "classID": 11,
+                        "level": 0
+                    },
+                    {
+                        "id": 79709873,
+                        "canonicalID": 79709873,
+                        "name": "Remediate",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 79750461,
+                        "canonicalID": 79750461,
+                        "name": "Ditheal",
+                        "classID": 7,
+                        "level": 0
+                    },
+                    {
+                        "id": 81372671,
+                        "canonicalID": 81372671,
+                        "name": "Whittlebill",
+                        "classID": 10,
+                        "level": 60
+                    }
+                ],
+                "masterData": {
+                    "actors": [
+                        {
+                            "id": 1,
+                            "gameID": 30475353,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Santhe"
+                        },
+                        {
+                            "id": 2,
+                            "gameID": 37968787,
+                            "server": "WildGrowth",
+                            "subType": "Warlock",
+                            "name": "Whittlebill"
+                        },
+                        {
+                            "id": 4,
+                            "gameID": 32449409,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Ozziiee"
+                        },
+                        {
+                            "id": 5,
+                            "gameID": 35553780,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Remediate"
+                        },
+                        {
+                            "id": 6,
+                            "gameID": 36331981,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Warsol"
+                        },
+                        {
+                            "id": 7,
+                            "gameID": 35104646,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Lamdar"
+                        },
+                        {
+                            "id": 8,
+                            "gameID": 34496489,
+                            "server": "WildGrowth",
+                            "subType": "Rogue",
+                            "name": "Foxberry"
+                        },
+                        {
+                            "id": 10,
+                            "gameID": 30610226,
+                            "server": "WildGrowth",
+                            "subType": "Warlock",
+                            "name": "Remtrox"
+                        },
+                        {
+                            "id": 12,
+                            "gameID": 37450752,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Lokhart"
+                        },
+                        {
+                            "id": 13,
+                            "gameID": 31296331,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Ditheal"
+                        },
+                        {
+                            "id": 14,
+                            "gameID": 35313201,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Nordicstar"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

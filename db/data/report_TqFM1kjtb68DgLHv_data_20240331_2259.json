@@ -1,0 +1,246 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "code": "TqFM1kjtb68DgLHv",
+                "startTime": 1711943261427,
+                "endTime": 1711947338722,
+                "region": {
+                    "id": 11,
+                    "name": "United States",
+                    "compactName": "US"
+                },
+                "guild": null,
+                "fights": [
+                    {
+                        "id": 6,
+                        "encounterID": 2925,
+                        "name": "Grubbis",
+                        "kill": true,
+                        "endTime": 687110,
+                        "startTime": 639887,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 11,
+                        "encounterID": 2928,
+                        "name": "Viscous Fallout",
+                        "kill": true,
+                        "endTime": 1118662,
+                        "startTime": 1047087,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 15,
+                        "encounterID": 2899,
+                        "name": "Crowd Pummeler 9-60",
+                        "kill": true,
+                        "endTime": 1684974,
+                        "startTime": 1588381,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 21,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": true,
+                        "endTime": 2285804,
+                        "startTime": 2178091,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 26,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": true,
+                        "endTime": 3084547,
+                        "startTime": 2868110,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 27,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": true,
+                        "endTime": 3935644,
+                        "startTime": 3552557,
+                        "size": 10,
+                        "originalEncounterID": null
+                    }
+                ],
+                "rankedCharacters": [
+                    {
+                        "id": 78285877,
+                        "canonicalID": 78285877,
+                        "name": "Shermen",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 78712691,
+                        "canonicalID": 78712691,
+                        "name": "Toezz",
+                        "classID": 10,
+                        "level": 0
+                    },
+                    {
+                        "id": 79529554,
+                        "canonicalID": 79529554,
+                        "name": "Littlebill",
+                        "classID": 3,
+                        "level": 60
+                    },
+                    {
+                        "id": 79529555,
+                        "canonicalID": 79529555,
+                        "name": "Ionathas",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 79529558,
+                        "canonicalID": 79529558,
+                        "name": "Wheezies",
+                        "classID": 7,
+                        "level": 0
+                    },
+                    {
+                        "id": 79530756,
+                        "canonicalID": 79530756,
+                        "name": "Foxidance",
+                        "classID": 3,
+                        "level": 0
+                    },
+                    {
+                        "id": 79665672,
+                        "canonicalID": 79665672,
+                        "name": "Remmii",
+                        "classID": 4,
+                        "level": 0
+                    },
+                    {
+                        "id": 79709871,
+                        "canonicalID": 79709871,
+                        "name": "Addydra",
+                        "classID": 2,
+                        "level": 0
+                    },
+                    {
+                        "id": 79709874,
+                        "canonicalID": 79709874,
+                        "name": "Spazzd",
+                        "classID": 2,
+                        "level": 0
+                    },
+                    {
+                        "id": 79754482,
+                        "canonicalID": 79754482,
+                        "name": "Solfiya",
+                        "classID": 3,
+                        "level": 0
+                    }
+                ],
+                "masterData": {
+                    "actors": [
+                        {
+                            "id": 1,
+                            "gameID": 32467880,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Remmii"
+                        },
+                        {
+                            "id": 2,
+                            "gameID": 35334877,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Shafty"
+                        },
+                        {
+                            "id": 3,
+                            "gameID": 37357356,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Ivver"
+                        },
+                        {
+                            "id": 5,
+                            "gameID": 30261794,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Shermen"
+                        },
+                        {
+                            "id": 6,
+                            "gameID": 30598845,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Littlebill"
+                        },
+                        {
+                            "id": 8,
+                            "gameID": 31868938,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Spazzd"
+                        },
+                        {
+                            "id": 9,
+                            "gameID": 35626721,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Wheezies"
+                        },
+                        {
+                            "id": 10,
+                            "gameID": 32568388,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Saltxyz"
+                        },
+                        {
+                            "id": 12,
+                            "gameID": 31638438,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Ionathas"
+                        },
+                        {
+                            "id": 13,
+                            "gameID": 30962891,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Addydra"
+                        },
+                        {
+                            "id": 14,
+                            "gameID": 36325141,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Solfiya"
+                        },
+                        {
+                            "id": 15,
+                            "gameID": 36333256,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Foxidance"
+                        },
+                        {
+                            "id": 16,
+                            "gameID": 35247450,
+                            "server": "WildGrowth",
+                            "subType": "Warlock",
+                            "name": "Toezz"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

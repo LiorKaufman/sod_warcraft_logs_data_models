@@ -1,0 +1,242 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "code": "ar8BmXDxn3PFZMjz",
+                "startTime": 1704344197938,
+                "endTime": 1704346635471,
+                "region": {
+                    "id": 11,
+                    "name": "United States",
+                    "compactName": "US"
+                },
+                "guild": null,
+                "fights": [
+                    {
+                        "id": 2,
+                        "encounterID": 2694,
+                        "name": "Baron Aquanis",
+                        "kill": true,
+                        "endTime": 203856,
+                        "startTime": 147674,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 6,
+                        "encounterID": 2697,
+                        "name": "Ghamoo-ra",
+                        "kill": true,
+                        "endTime": 492373,
+                        "startTime": 375616,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 9,
+                        "encounterID": 2699,
+                        "name": "Lady Sarevess",
+                        "kill": true,
+                        "endTime": 767875,
+                        "startTime": 725075,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 13,
+                        "encounterID": 2704,
+                        "name": "Gelihast",
+                        "kill": true,
+                        "endTime": 1270457,
+                        "startTime": 1137061,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 14,
+                        "encounterID": 2710,
+                        "name": "Lorgus Jett",
+                        "kill": true,
+                        "endTime": 1539908,
+                        "startTime": 1384695,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 17,
+                        "encounterID": 2825,
+                        "name": "Twilight Lord Kelris",
+                        "kill": true,
+                        "endTime": 2078823,
+                        "startTime": 1982432,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 21,
+                        "encounterID": 2891,
+                        "name": "Aku'mai",
+                        "kill": true,
+                        "endTime": 2437533,
+                        "startTime": 2311231,
+                        "size": 10,
+                        "originalEncounterID": null
+                    }
+                ],
+                "rankedCharacters": [
+                    {
+                        "id": 79182796,
+                        "canonicalID": 79182796,
+                        "name": "Irishpi",
+                        "classID": 3,
+                        "level": 0
+                    },
+                    {
+                        "id": 79261377,
+                        "canonicalID": 79261377,
+                        "name": "Lasalyn",
+                        "classID": 7,
+                        "level": 60
+                    },
+                    {
+                        "id": 79415610,
+                        "canonicalID": 79415610,
+                        "name": "Jadzia",
+                        "classID": 3,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578188,
+                        "canonicalID": 79578188,
+                        "name": "Remtrox",
+                        "classID": 10,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578189,
+                        "canonicalID": 79578189,
+                        "name": "Lamdar",
+                        "classID": 7,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578190,
+                        "canonicalID": 79578190,
+                        "name": "Saltzx",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578191,
+                        "canonicalID": 79578191,
+                        "name": "Warsol",
+                        "classID": 11,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578192,
+                        "canonicalID": 79578192,
+                        "name": "Turtles",
+                        "classID": 8,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578193,
+                        "canonicalID": 79578193,
+                        "name": "Ohcrit",
+                        "classID": 4,
+                        "level": 60
+                    },
+                    {
+                        "id": 79578194,
+                        "canonicalID": 79578194,
+                        "name": "Ravness",
+                        "classID": 11,
+                        "level": 0
+                    }
+                ],
+                "masterData": {
+                    "actors": [
+                        {
+                            "id": 3,
+                            "gameID": 30610226,
+                            "server": "WildGrowth",
+                            "subType": "Warlock",
+                            "name": "Remtrox"
+                        },
+                        {
+                            "id": 4,
+                            "gameID": 37020310,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Saltzx"
+                        },
+                        {
+                            "id": 7,
+                            "gameID": 35104646,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Lamdar"
+                        },
+                        {
+                            "id": 8,
+                            "gameID": 35999407,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Ohcrit"
+                        },
+                        {
+                            "id": 9,
+                            "gameID": 30267762,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Jadzia"
+                        },
+                        {
+                            "id": 10,
+                            "gameID": 33514431,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Irishpi"
+                        },
+                        {
+                            "id": 13,
+                            "gameID": 36331981,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Warsol"
+                        },
+                        {
+                            "id": 14,
+                            "gameID": 36532708,
+                            "server": "WildGrowth",
+                            "subType": "Rogue",
+                            "name": "Turtles"
+                        },
+                        {
+                            "id": 15,
+                            "gameID": 36351950,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Lasalyn"
+                        },
+                        {
+                            "id": 16,
+                            "gameID": 32128224,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Ravness"
+                        },
+                        {
+                            "id": 25,
+                            "gameID": 35697699,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Zeleina"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

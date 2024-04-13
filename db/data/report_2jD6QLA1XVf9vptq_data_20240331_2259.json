@@ -1,0 +1,255 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "code": "2jD6QLA1XVf9vptq",
+                "startTime": 1709963913678,
+                "endTime": 1709969328467,
+                "region": {
+                    "id": 11,
+                    "name": "United States",
+                    "compactName": "US"
+                },
+                "guild": null,
+                "fights": [
+                    {
+                        "id": 3,
+                        "encounterID": 2925,
+                        "name": "Grubbis",
+                        "kill": true,
+                        "endTime": 491819,
+                        "startTime": 420026,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 8,
+                        "encounterID": 2928,
+                        "name": "Viscous Fallout",
+                        "kill": true,
+                        "endTime": 1033834,
+                        "startTime": 951387,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 14,
+                        "encounterID": 2899,
+                        "name": "Crowd Pummeler 9-60",
+                        "kill": true,
+                        "endTime": 1624706,
+                        "startTime": 1502986,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 21,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": false,
+                        "endTime": 2318912,
+                        "startTime": 2165405,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 22,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": false,
+                        "endTime": 2685270,
+                        "startTime": 2597935,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 24,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": true,
+                        "endTime": 3293857,
+                        "startTime": 3122598,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 29,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": true,
+                        "endTime": 4178478,
+                        "startTime": 3874337,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 30,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": false,
+                        "endTime": 4728669,
+                        "startTime": 4181724,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 34,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": true,
+                        "endTime": 5414789,
+                        "startTime": 5026505,
+                        "size": 10,
+                        "originalEncounterID": null
+                    }
+                ],
+                "rankedCharacters": [
+                    {
+                        "id": 79007344,
+                        "canonicalID": 79007344,
+                        "name": "Digladio",
+                        "classID": 6,
+                        "level": 60
+                    },
+                    {
+                        "id": 79426980,
+                        "canonicalID": 79426980,
+                        "name": "Foxtart",
+                        "classID": 11,
+                        "level": 0
+                    },
+                    {
+                        "id": 79428009,
+                        "canonicalID": 79428009,
+                        "name": "Florna",
+                        "classID": 7,
+                        "level": 0
+                    },
+                    {
+                        "id": 79529557,
+                        "canonicalID": 79529557,
+                        "name": "Griffter",
+                        "classID": 8,
+                        "level": 0
+                    },
+                    {
+                        "id": 79568939,
+                        "canonicalID": 79568939,
+                        "name": "Mirlana",
+                        "classID": 2,
+                        "level": 60
+                    },
+                    {
+                        "id": 79665672,
+                        "canonicalID": 79665672,
+                        "name": "Remmii",
+                        "classID": 4,
+                        "level": 0
+                    },
+                    {
+                        "id": 79693303,
+                        "canonicalID": 79693303,
+                        "name": "Belmontt",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 79847381,
+                        "canonicalID": 79847381,
+                        "name": "Brewfaith",
+                        "classID": 7,
+                        "level": 0
+                    },
+                    {
+                        "id": 80773851,
+                        "canonicalID": 80773851,
+                        "name": "Gheymage",
+                        "classID": 4,
+                        "level": 0
+                    },
+                    {
+                        "id": 81186507,
+                        "canonicalID": 81186507,
+                        "name": "Bigcritgthgf",
+                        "classID": 10,
+                        "level": 0
+                    }
+                ],
+                "masterData": {
+                    "actors": [
+                        {
+                            "id": 1,
+                            "gameID": 33765847,
+                            "server": "WildGrowth",
+                            "subType": "Warlock",
+                            "name": "Bigcritgthgf"
+                        },
+                        {
+                            "id": 2,
+                            "gameID": 35243025,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Digladio"
+                        },
+                        {
+                            "id": 3,
+                            "gameID": 37214222,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Gheymage"
+                        },
+                        {
+                            "id": 4,
+                            "gameID": 35988490,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Belmontt"
+                        },
+                        {
+                            "id": 5,
+                            "gameID": 37044125,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Mirlana"
+                        },
+                        {
+                            "id": 6,
+                            "gameID": 35262654,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Brewfaith"
+                        },
+                        {
+                            "id": 7,
+                            "gameID": 31531275,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Florna"
+                        },
+                        {
+                            "id": 8,
+                            "gameID": 32467880,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Remmii"
+                        },
+                        {
+                            "id": 9,
+                            "gameID": 33659709,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Foxtart"
+                        },
+                        {
+                            "id": 10,
+                            "gameID": 30983154,
+                            "server": "WildGrowth",
+                            "subType": "Rogue",
+                            "name": "Griffter"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

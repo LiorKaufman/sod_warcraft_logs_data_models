@@ -1,0 +1,658 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "code": "2LAZ6VDmkG8JCN47",
+                "startTime": 1707022367832,
+                "endTime": 1707026233400,
+                "region": {
+                    "id": 11,
+                    "name": "United States",
+                    "compactName": "US"
+                },
+                "guild": null,
+                "fights": [
+                    {
+                        "id": 6,
+                        "encounterID": 2694,
+                        "name": "Baron Aquanis",
+                        "kill": true,
+                        "endTime": 987631,
+                        "startTime": 927956,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 8,
+                        "encounterID": 2697,
+                        "name": "Ghamoo-ra",
+                        "kill": true,
+                        "endTime": 1286192,
+                        "startTime": 1163782,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 11,
+                        "encounterID": 2699,
+                        "name": "Lady Sarevess",
+                        "kill": true,
+                        "endTime": 1627621,
+                        "startTime": 1577628,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 16,
+                        "encounterID": 2704,
+                        "name": "Gelihast",
+                        "kill": true,
+                        "endTime": 2138785,
+                        "startTime": 2013748,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 17,
+                        "encounterID": 2710,
+                        "name": "Lorgus Jett",
+                        "kill": true,
+                        "endTime": 2410122,
+                        "startTime": 2235763,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 20,
+                        "encounterID": 2825,
+                        "name": "Twilight Lord Kelris",
+                        "kill": false,
+                        "endTime": 3011646,
+                        "startTime": 2840055,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 21,
+                        "encounterID": 2825,
+                        "name": "Twilight Lord Kelris",
+                        "kill": true,
+                        "endTime": 3460306,
+                        "startTime": 3306525,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 26,
+                        "encounterID": 2891,
+                        "name": "Aku'mai",
+                        "kill": true,
+                        "endTime": 3865568,
+                        "startTime": 3705385,
+                        "size": 10,
+                        "originalEncounterID": null
+                    }
+                ],
+                "rankedCharacters": [
+                    {
+                        "id": 79261377,
+                        "canonicalID": 79261377,
+                        "name": "Lasalyn",
+                        "classID": 7,
+                        "level": 60
+                    },
+                    {
+                        "id": 79620404,
+                        "canonicalID": 79620404,
+                        "name": "Kartigan",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 79710086,
+                        "canonicalID": 79710086,
+                        "name": "Nemessis",
+                        "classID": 8,
+                        "level": 0
+                    },
+                    {
+                        "id": 79754479,
+                        "canonicalID": 79754479,
+                        "name": "Xzarond",
+                        "classID": 3,
+                        "level": 0
+                    },
+                    {
+                        "id": 80083247,
+                        "canonicalID": 80083247,
+                        "name": "Sycodrama",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 80234302,
+                        "canonicalID": 80234302,
+                        "name": "Lichologist",
+                        "classID": 0,
+                        "level": 0
+                    },
+                    {
+                        "id": 80483862,
+                        "canonicalID": 80483862,
+                        "name": "Mispeled",
+                        "classID": 4,
+                        "level": 0
+                    },
+                    {
+                        "id": 80625542,
+                        "canonicalID": 80625542,
+                        "name": "Shroomimagi",
+                        "classID": 0,
+                        "level": 0
+                    },
+                    {
+                        "id": 80722136,
+                        "canonicalID": 80722136,
+                        "name": "Jacquehudson",
+                        "classID": 0,
+                        "level": 0
+                    },
+                    {
+                        "id": 80722137,
+                        "canonicalID": 80722137,
+                        "name": "Marna",
+                        "classID": 0,
+                        "level": 0
+                    }
+                ],
+                "masterData": {
+                    "actors": [
+                        {
+                            "id": 3,
+                            "gameID": 37301661,
+                            "server": "WildGrowth",
+                            "subType": "Warlock",
+                            "name": "Lichologist"
+                        },
+                        {
+                            "id": 4,
+                            "gameID": 31389979,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Xzarmeat"
+                        },
+                        {
+                            "id": 5,
+                            "gameID": 37256681,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Jacquehudson"
+                        },
+                        {
+                            "id": 6,
+                            "gameID": 36249664,
+                            "server": "WildGrowth",
+                            "subType": "Rogue",
+                            "name": "Nemessis"
+                        },
+                        {
+                            "id": 8,
+                            "gameID": 31164246,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Syco"
+                        },
+                        {
+                            "id": 9,
+                            "gameID": 31273511,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Kartigan"
+                        },
+                        {
+                            "id": 11,
+                            "gameID": 37961107,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Mispeled"
+                        },
+                        {
+                            "id": 15,
+                            "gameID": 36351950,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Lasalyn"
+                        },
+                        {
+                            "id": 24,
+                            "gameID": 34996550,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Catalystt"
+                        },
+                        {
+                            "id": 26,
+                            "gameID": 38058566,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Krosstika"
+                        },
+                        {
+                            "id": 29,
+                            "gameID": 35209815,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Iwontstab"
+                        },
+                        {
+                            "id": 30,
+                            "gameID": 37163885,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Beeziepally"
+                        },
+                        {
+                            "id": 31,
+                            "gameID": 35780638,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Swoljaboi"
+                        },
+                        {
+                            "id": 32,
+                            "gameID": 30731773,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Stubbynubbin"
+                        },
+                        {
+                            "id": 33,
+                            "gameID": 37150991,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Liftstinien"
+                        },
+                        {
+                            "id": 34,
+                            "gameID": 30555337,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Hugewinner"
+                        },
+                        {
+                            "id": 35,
+                            "gameID": 38354307,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Bizmarck"
+                        },
+                        {
+                            "id": 36,
+                            "gameID": 37446435,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Minuspkp"
+                        },
+                        {
+                            "id": 37,
+                            "gameID": 30666962,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Tenneal"
+                        },
+                        {
+                            "id": 38,
+                            "gameID": 32399407,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Shineless"
+                        },
+                        {
+                            "id": 39,
+                            "gameID": 37587210,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Zeeanna"
+                        },
+                        {
+                            "id": 42,
+                            "gameID": 30371636,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Holyhammer"
+                        },
+                        {
+                            "id": 43,
+                            "gameID": 37836608,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Sycodrama"
+                        },
+                        {
+                            "id": 44,
+                            "gameID": 30614187,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Wheeziepz"
+                        },
+                        {
+                            "id": 45,
+                            "gameID": 37961549,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Gunty"
+                        },
+                        {
+                            "id": 46,
+                            "gameID": 35658055,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Saradwen"
+                        },
+                        {
+                            "id": 47,
+                            "gameID": 38117356,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Calthrog"
+                        },
+                        {
+                            "id": 48,
+                            "gameID": 38535123,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Findion"
+                        },
+                        {
+                            "id": 50,
+                            "gameID": 37740846,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Noobertooner"
+                        },
+                        {
+                            "id": 51,
+                            "gameID": 36759774,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Ntranced"
+                        },
+                        {
+                            "id": 53,
+                            "gameID": 37885322,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Cherylblosxo"
+                        },
+                        {
+                            "id": 54,
+                            "gameID": 31857582,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Treevis"
+                        },
+                        {
+                            "id": 55,
+                            "gameID": 30888983,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Jaful"
+                        },
+                        {
+                            "id": 56,
+                            "gameID": 37824900,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Mithrilbear"
+                        },
+                        {
+                            "id": 57,
+                            "gameID": 36145992,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Iwontaoe"
+                        },
+                        {
+                            "id": 58,
+                            "gameID": 34627664,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Prenty"
+                        },
+                        {
+                            "id": 59,
+                            "gameID": 32382293,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Tier"
+                        },
+                        {
+                            "id": 60,
+                            "gameID": 35595714,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Tryllena"
+                        },
+                        {
+                            "id": 61,
+                            "gameID": 35486365,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Onebiginch"
+                        },
+                        {
+                            "id": 62,
+                            "gameID": 31140628,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Magnos"
+                        },
+                        {
+                            "id": 63,
+                            "gameID": 36067561,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Squishyheals"
+                        },
+                        {
+                            "id": 64,
+                            "gameID": 35264214,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Gogoat"
+                        },
+                        {
+                            "id": 65,
+                            "gameID": 31584708,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Zlatan"
+                        },
+                        {
+                            "id": 66,
+                            "gameID": 30819103,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Yipyip"
+                        },
+                        {
+                            "id": 67,
+                            "gameID": 31470906,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Gatsu"
+                        },
+                        {
+                            "id": 68,
+                            "gameID": 37497567,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Xicano"
+                        },
+                        {
+                            "id": 69,
+                            "gameID": 30472760,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Lovehandelz"
+                        },
+                        {
+                            "id": 70,
+                            "gameID": 30239139,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Divahope"
+                        },
+                        {
+                            "id": 71,
+                            "gameID": 37252584,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Boush"
+                        },
+                        {
+                            "id": 72,
+                            "gameID": 35243025,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Digladio"
+                        },
+                        {
+                            "id": 73,
+                            "gameID": 35551869,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Copone"
+                        },
+                        {
+                            "id": 74,
+                            "gameID": 35545558,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Thisperwind"
+                        },
+                        {
+                            "id": 75,
+                            "gameID": 31420116,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Dweezil"
+                        },
+                        {
+                            "id": 76,
+                            "gameID": 31395971,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Arkayic"
+                        },
+                        {
+                            "id": 77,
+                            "gameID": 30513860,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Skydoc"
+                        },
+                        {
+                            "id": 78,
+                            "gameID": 35530525,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Slaugh"
+                        },
+                        {
+                            "id": 79,
+                            "gameID": 33802858,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Shü"
+                        },
+                        {
+                            "id": 80,
+                            "gameID": 32228526,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Jonfrmhawii"
+                        },
+                        {
+                            "id": 82,
+                            "gameID": 33667099,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Marna"
+                        },
+                        {
+                            "id": 83,
+                            "gameID": 32279312,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Ddiggler"
+                        },
+                        {
+                            "id": 85,
+                            "gameID": 30655206,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Brassb"
+                        },
+                        {
+                            "id": 88,
+                            "gameID": 32742890,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Xzarond"
+                        },
+                        {
+                            "id": 89,
+                            "gameID": 37555183,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Snowcerer"
+                        },
+                        {
+                            "id": 91,
+                            "gameID": 38301991,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Jehct"
+                        },
+                        {
+                            "id": 92,
+                            "gameID": 37077185,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Uggwhy"
+                        },
+                        {
+                            "id": 93,
+                            "gameID": 31222742,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Nukezor"
+                        },
+                        {
+                            "id": 94,
+                            "gameID": 32945097,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Zanfee"
+                        },
+                        {
+                            "id": 95,
+                            "gameID": 37767859,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Udderslap"
+                        },
+                        {
+                            "id": 96,
+                            "gameID": 38091917,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Shroomimagi"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
