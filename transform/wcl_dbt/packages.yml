@@ -1,0 +1,4 @@
+# Update docs-packages.yml as well to have the docs site be accurate.
+packages:
+  - package: Datavault-UK/automate_dv
+    version: 0.10.2

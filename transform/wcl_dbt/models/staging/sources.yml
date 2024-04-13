@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: wcl
+    database: raw
+    schema: public
+    tables:
+      - name: wcl_reports
