@@ -1,0 +1,22 @@
+version: "3"
+tasks:
+  sql-lint:
+    cmds:
+      - poetry run sqlfluff lint transform/wcl_dbt/models/
+  sql-fix:
+    cmds:
+      - poetry run sqlfluff fix transform/wcl_dbt/models/
+  dbt-run:
+    dir: ./transform/wcl_dbt/
+    cmds:
+      - poetry run dbt run
+  dbt-docs:
+    deps: [dbt-run]
+    dir: ./transform/wcl_dbt/
+    cmds:
+      - poetry run dbt docs generate
+      - poetry run dbt docs serve
+  dbt-test:
+    dir: ./transform/wcl_dbt/
+    cmds:
+      - poetry run dbt test
