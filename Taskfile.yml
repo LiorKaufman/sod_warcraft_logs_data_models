@@ -10,6 +10,10 @@ tasks:
     dir: ./transform/wcl_dbt/
     cmds:
       - poetry run dbt run
+  dbt-run-fr:
+    dir: ./transform/wcl_dbt/
+    cmds:
+      - poetry run dbt run --full-refresh
   dbt-docs:
     deps: [dbt-run]
     dir: ./transform/wcl_dbt/
