@@ -1,0 +1,25 @@
+{
+    "errors": [
+        {
+            "message": "You do not have permission to view this report.",
+            "extensions": {
+                "category": "graphql"
+            },
+            "locations": [
+                {
+                    "line": 4,
+                    "column": 17
+                }
+            ],
+            "path": [
+                "reportData",
+                "report"
+            ]
+        }
+    ],
+    "data": {
+        "reportData": {
+            "report": null
+        }
+    }
+}

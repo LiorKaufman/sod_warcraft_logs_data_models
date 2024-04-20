@@ -1,0 +1,307 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "code": "XrbgGMhqjDzQApnT",
+                "startTime": 1704689560988,
+                "endTime": 1704695346147,
+                "region": {
+                    "id": 11,
+                    "name": "United States",
+                    "compactName": "US"
+                },
+                "guild": null,
+                "fights": [
+                    {
+                        "id": 3,
+                        "encounterID": 2694,
+                        "name": "Baron Aquanis",
+                        "kill": true,
+                        "endTime": 1152271,
+                        "startTime": 1093397,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 5,
+                        "encounterID": 2697,
+                        "name": "Ghamoo-ra",
+                        "kill": true,
+                        "endTime": 1506019,
+                        "startTime": 1327357,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 7,
+                        "encounterID": 2699,
+                        "name": "Lady Sarevess",
+                        "kill": true,
+                        "endTime": 1886425,
+                        "startTime": 1820347,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 11,
+                        "encounterID": 2704,
+                        "name": "Gelihast",
+                        "kill": true,
+                        "endTime": 2530348,
+                        "startTime": 2368316,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 12,
+                        "encounterID": 2710,
+                        "name": "Lorgus Jett",
+                        "kill": true,
+                        "endTime": 2917456,
+                        "startTime": 2725897,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 14,
+                        "encounterID": 2825,
+                        "name": "Twilight Lord Kelris",
+                        "kill": false,
+                        "endTime": 3552385,
+                        "startTime": 3388772,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 16,
+                        "encounterID": 2825,
+                        "name": "Twilight Lord Kelris",
+                        "kill": false,
+                        "endTime": 3992408,
+                        "startTime": 3817518,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 17,
+                        "encounterID": 2825,
+                        "name": "Twilight Lord Kelris",
+                        "kill": false,
+                        "endTime": 4406047,
+                        "startTime": 4302598,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 18,
+                        "encounterID": 2825,
+                        "name": "Twilight Lord Kelris",
+                        "kill": true,
+                        "endTime": 5148985,
+                        "startTime": 4990970,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 22,
+                        "encounterID": 2891,
+                        "name": "Aku'mai",
+                        "kill": true,
+                        "endTime": 5746665,
+                        "startTime": 5560903,
+                        "size": 10,
+                        "originalEncounterID": null
+                    }
+                ],
+                "rankedCharacters": [
+                    {
+                        "id": 78712688,
+                        "canonicalID": 78712688,
+                        "name": "Saltxzy",
+                        "classID": 8,
+                        "level": 0
+                    },
+                    {
+                        "id": 78739204,
+                        "canonicalID": 78739204,
+                        "name": "Midnightfire",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 78903881,
+                        "canonicalID": 78903881,
+                        "name": "Voidwisp",
+                        "classID": 7,
+                        "level": 60
+                    },
+                    {
+                        "id": 79464161,
+                        "canonicalID": 79464161,
+                        "name": "Rawri",
+                        "classID": 6,
+                        "level": 60
+                    },
+                    {
+                        "id": 79578767,
+                        "canonicalID": 79578767,
+                        "name": "Clawzpawz",
+                        "classID": 2,
+                        "level": 0
+                    },
+                    {
+                        "id": 79578770,
+                        "canonicalID": 79578770,
+                        "name": "Blindtruth",
+                        "classID": 4,
+                        "level": 0
+                    },
+                    {
+                        "id": 79754479,
+                        "canonicalID": 79754479,
+                        "name": "Xzarond",
+                        "classID": 3,
+                        "level": 0
+                    },
+                    {
+                        "id": 79754480,
+                        "canonicalID": 79754480,
+                        "name": "Bearlytank",
+                        "classID": 2,
+                        "level": 0
+                    },
+                    {
+                        "id": 79754481,
+                        "canonicalID": 79754481,
+                        "name": "Amorin",
+                        "classID": 0,
+                        "level": 0
+                    },
+                    {
+                        "id": 79754482,
+                        "canonicalID": 79754482,
+                        "name": "Solfiya",
+                        "classID": 3,
+                        "level": 0
+                    }
+                ],
+                "masterData": {
+                    "actors": [
+                        {
+                            "id": 1,
+                            "gameID": 36325141,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Solfiya"
+                        },
+                        {
+                            "id": 3,
+                            "gameID": 33671144,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Amorin"
+                        },
+                        {
+                            "id": 4,
+                            "gameID": 36306186,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Clawzpawz"
+                        },
+                        {
+                            "id": 5,
+                            "gameID": 36271282,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Blindtruth"
+                        },
+                        {
+                            "id": 7,
+                            "gameID": 32742890,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Xzarond"
+                        },
+                        {
+                            "id": 8,
+                            "gameID": 34627664,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Prenty"
+                        },
+                        {
+                            "id": 9,
+                            "gameID": 33132836,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Schitfire"
+                        },
+                        {
+                            "id": 10,
+                            "gameID": 35306522,
+                            "server": "WildGrowth",
+                            "subType": "Rogue",
+                            "name": "Saltxzy"
+                        },
+                        {
+                            "id": 11,
+                            "gameID": 35614213,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Voidwisp"
+                        },
+                        {
+                            "id": 13,
+                            "gameID": 30513233,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Arrowblot"
+                        },
+                        {
+                            "id": 14,
+                            "gameID": 30608415,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Midnightfire"
+                        },
+                        {
+                            "id": 15,
+                            "gameID": 36793528,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Bearlytank"
+                        },
+                        {
+                            "id": 16,
+                            "gameID": 32655429,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Crixtalus"
+                        },
+                        {
+                            "id": 24,
+                            "gameID": 30440463,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Rawri"
+                        },
+                        {
+                            "id": 25,
+                            "gameID": 36614574,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Catulus"
+                        },
+                        {
+                            "id": 88,
+                            "gameID": 30674717,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Dwen"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

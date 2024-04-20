@@ -1,0 +1,6 @@
+sources:
+  - name: some
+    tables:
+      - name: report_a
+        meta:
+          external_location: "read_json('/Users/liorkaufman/Desktop/personal_project/sod_warcraft_logs_data_models/transform/data/report_1x93G4BvwDTJ7Mzn_data_20240331_2259.json')"
