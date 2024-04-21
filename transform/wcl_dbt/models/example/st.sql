@@ -1,1 +1,0 @@
-select * from {{source('some','report_a')}}
