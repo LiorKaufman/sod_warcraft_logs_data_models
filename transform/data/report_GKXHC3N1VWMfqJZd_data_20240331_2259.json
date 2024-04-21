@@ -1,0 +1,249 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "code": "GKXHC3N1VWMfqJZd",
+                "startTime": 1705035127774,
+                "endTime": 1705038455452,
+                "region": {
+                    "id": 11,
+                    "name": "United States",
+                    "compactName": "US"
+                },
+                "guild": null,
+                "fights": [
+                    {
+                        "id": 5,
+                        "encounterID": 2694,
+                        "name": "Baron Aquanis",
+                        "kill": true,
+                        "endTime": 582103,
+                        "startTime": 538205,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 8,
+                        "encounterID": 2697,
+                        "name": "Ghamoo-ra",
+                        "kill": true,
+                        "endTime": 918962,
+                        "startTime": 805076,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 13,
+                        "encounterID": 2699,
+                        "name": "Lady Sarevess",
+                        "kill": true,
+                        "endTime": 1462316,
+                        "startTime": 1423100,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 16,
+                        "encounterID": 2704,
+                        "name": "Gelihast",
+                        "kill": true,
+                        "endTime": 2041242,
+                        "startTime": 1909785,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 18,
+                        "encounterID": 2710,
+                        "name": "Lorgus Jett",
+                        "kill": true,
+                        "endTime": 2351488,
+                        "startTime": 2196945,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 24,
+                        "encounterID": 2825,
+                        "name": "Twilight Lord Kelris",
+                        "kill": true,
+                        "endTime": 2897776,
+                        "startTime": 2788802,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 28,
+                        "encounterID": 2891,
+                        "name": "Aku'mai",
+                        "kill": true,
+                        "endTime": 3252262,
+                        "startTime": 3129809,
+                        "size": 10,
+                        "originalEncounterID": null
+                    }
+                ],
+                "rankedCharacters": [
+                    {
+                        "id": 78712691,
+                        "canonicalID": 78712691,
+                        "name": "Toezz",
+                        "classID": 10,
+                        "level": 0
+                    },
+                    {
+                        "id": 79529554,
+                        "canonicalID": 79529554,
+                        "name": "Littlebill",
+                        "classID": 3,
+                        "level": 60
+                    },
+                    {
+                        "id": 79529555,
+                        "canonicalID": 79529555,
+                        "name": "Ionathas",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 79529558,
+                        "canonicalID": 79529558,
+                        "name": "Wheezies",
+                        "classID": 7,
+                        "level": 0
+                    },
+                    {
+                        "id": 79530756,
+                        "canonicalID": 79530756,
+                        "name": "Foxidance",
+                        "classID": 3,
+                        "level": 0
+                    },
+                    {
+                        "id": 79709871,
+                        "canonicalID": 79709871,
+                        "name": "Addydra",
+                        "classID": 2,
+                        "level": 0
+                    },
+                    {
+                        "id": 79709872,
+                        "canonicalID": 79709872,
+                        "name": "Tszimisce",
+                        "classID": 8,
+                        "level": 0
+                    },
+                    {
+                        "id": 79709874,
+                        "canonicalID": 79709874,
+                        "name": "Spazzd",
+                        "classID": 2,
+                        "level": 0
+                    },
+                    {
+                        "id": 79846092,
+                        "canonicalID": 79846092,
+                        "name": "Jackhudson",
+                        "classID": 11,
+                        "level": 0
+                    },
+                    {
+                        "id": 79921676,
+                        "canonicalID": 79921676,
+                        "name": "Scrandalf",
+                        "classID": 4,
+                        "level": 60
+                    }
+                ],
+                "masterData": {
+                    "actors": [
+                        {
+                            "id": 2,
+                            "gameID": 35247450,
+                            "server": "WildGrowth",
+                            "subType": "Warlock",
+                            "name": "Toezz"
+                        },
+                        {
+                            "id": 3,
+                            "gameID": 31638438,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Ionathas"
+                        },
+                        {
+                            "id": 4,
+                            "gameID": 30598845,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Littlebill"
+                        },
+                        {
+                            "id": 5,
+                            "gameID": 33160641,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Scrandalf"
+                        },
+                        {
+                            "id": 7,
+                            "gameID": 30962891,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Addydra"
+                        },
+                        {
+                            "id": 9,
+                            "gameID": 35626721,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Wheezies"
+                        },
+                        {
+                            "id": 10,
+                            "gameID": 36333256,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Foxidance"
+                        },
+                        {
+                            "id": 12,
+                            "gameID": 31868938,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Spazzd"
+                        },
+                        {
+                            "id": 13,
+                            "gameID": 37522850,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Pamarillexis"
+                        },
+                        {
+                            "id": 21,
+                            "gameID": 31204346,
+                            "server": "WildGrowth",
+                            "subType": "Rogue",
+                            "name": "Tszimisce"
+                        },
+                        {
+                            "id": 22,
+                            "gameID": 35242727,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Khalipso"
+                        },
+                        {
+                            "id": 28,
+                            "gameID": 30785751,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Jackhudson"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

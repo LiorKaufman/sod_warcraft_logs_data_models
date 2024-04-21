@@ -1,0 +1,7 @@
+sources:
+  - name: wcl
+    database: dev
+    schema: raw
+    tables:
+      - name: wcl_report
+      

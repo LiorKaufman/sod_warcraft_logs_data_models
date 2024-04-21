@@ -20,3 +20,9 @@ tasks:
     dir: ./transform/wcl_dbt/
     cmds:
       - poetry run dbt test
+  
+  dbt-seed:
+    dir: ./transform/wcl_dbt/
+    cmds:
+      - poetry run dbt seed
+  

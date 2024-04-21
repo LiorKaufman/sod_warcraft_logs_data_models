@@ -1,0 +1,273 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "code": "Vgrd8yXDNpP7B2Wz",
+                "startTime": 1710474267536,
+                "endTime": 1710478857984,
+                "region": {
+                    "id": 11,
+                    "name": "United States",
+                    "compactName": "US"
+                },
+                "guild": null,
+                "fights": [
+                    {
+                        "id": 6,
+                        "encounterID": 2925,
+                        "name": "Grubbis",
+                        "kill": true,
+                        "endTime": 921907,
+                        "startTime": 877238,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 15,
+                        "encounterID": 2928,
+                        "name": "Viscous Fallout",
+                        "kill": true,
+                        "endTime": 1473687,
+                        "startTime": 1418331,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 19,
+                        "encounterID": 2899,
+                        "name": "Crowd Pummeler 9-60",
+                        "kill": true,
+                        "endTime": 1946135,
+                        "startTime": 1862157,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 25,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": true,
+                        "endTime": 2527516,
+                        "startTime": 2436960,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 29,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": false,
+                        "endTime": 3184366,
+                        "startTime": 3040735,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 30,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": false,
+                        "endTime": 3535181,
+                        "startTime": 3436463,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 31,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": true,
+                        "endTime": 4001145,
+                        "startTime": 3772751,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 32,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": true,
+                        "endTime": 4590448,
+                        "startTime": 4254204,
+                        "size": 10,
+                        "originalEncounterID": null
+                    }
+                ],
+                "rankedCharacters": [
+                    {
+                        "id": 78744783,
+                        "canonicalID": 78744783,
+                        "name": "Sychodelic",
+                        "classID": 10,
+                        "level": 0
+                    },
+                    {
+                        "id": 79007344,
+                        "canonicalID": 79007344,
+                        "name": "Digladio",
+                        "classID": 6,
+                        "level": 60
+                    },
+                    {
+                        "id": 79143254,
+                        "canonicalID": 79143254,
+                        "name": "Sycotica",
+                        "classID": 8,
+                        "level": 0
+                    },
+                    {
+                        "id": 79261377,
+                        "canonicalID": 79261377,
+                        "name": "Lasalyn",
+                        "classID": 7,
+                        "level": 60
+                    },
+                    {
+                        "id": 79426981,
+                        "canonicalID": 79426981,
+                        "name": "Grimjaws",
+                        "classID": 2,
+                        "level": 0
+                    },
+                    {
+                        "id": 79529554,
+                        "canonicalID": 79529554,
+                        "name": "Littlebill",
+                        "classID": 3,
+                        "level": 60
+                    },
+                    {
+                        "id": 79607645,
+                        "canonicalID": 79607645,
+                        "name": "Aethael",
+                        "classID": 11,
+                        "level": 0
+                    },
+                    {
+                        "id": 79799135,
+                        "canonicalID": 79799135,
+                        "name": "Gnomdalf",
+                        "classID": 4,
+                        "level": 0
+                    },
+                    {
+                        "id": 80483862,
+                        "canonicalID": 80483862,
+                        "name": "Mispeled",
+                        "classID": 4,
+                        "level": 0
+                    },
+                    {
+                        "id": 80483863,
+                        "canonicalID": 80483863,
+                        "name": "Xzarla",
+                        "classID": 7,
+                        "level": 0
+                    },
+                    {
+                        "id": 81078665,
+                        "canonicalID": 81078665,
+                        "name": "Tranquillily",
+                        "classID": 2,
+                        "level": 0
+                    }
+                ],
+                "masterData": {
+                    "actors": [
+                        {
+                            "id": 2,
+                            "gameID": 38814540,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Bubbzi"
+                        },
+                        {
+                            "id": 3,
+                            "gameID": 36059050,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Grimjaws"
+                        },
+                        {
+                            "id": 4,
+                            "gameID": 37585692,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Nasina"
+                        },
+                        {
+                            "id": 5,
+                            "gameID": 37961107,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Mispeled"
+                        },
+                        {
+                            "id": 6,
+                            "gameID": 30598845,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Littlebill"
+                        },
+                        {
+                            "id": 8,
+                            "gameID": 35243025,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Digladio"
+                        },
+                        {
+                            "id": 9,
+                            "gameID": 31162007,
+                            "server": "WildGrowth",
+                            "subType": "Warlock",
+                            "name": "Sychodelic"
+                        },
+                        {
+                            "id": 11,
+                            "gameID": 33502349,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Tranquillily"
+                        },
+                        {
+                            "id": 12,
+                            "gameID": 30496561,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Gnomdalf"
+                        },
+                        {
+                            "id": 13,
+                            "gameID": 36577528,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Xzarla"
+                        },
+                        {
+                            "id": 18,
+                            "gameID": 31300238,
+                            "server": "WildGrowth",
+                            "subType": "Warrior",
+                            "name": "Aethael"
+                        },
+                        {
+                            "id": 20,
+                            "gameID": 36351950,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Lasalyn"
+                        },
+                        {
+                            "id": 35,
+                            "gameID": 36191471,
+                            "server": "WildGrowth",
+                            "subType": "Rogue",
+                            "name": "Sycotica"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
