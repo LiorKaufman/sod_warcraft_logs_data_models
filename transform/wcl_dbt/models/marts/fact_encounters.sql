@@ -20,6 +20,7 @@ classes AS (
         class_name
     FROM
         {{ ref('stg_wcl_actors') }}
+    where class_name != 'Unknown'
     GROUP BY
         ALL
 ),
@@ -29,36 +30,15 @@ FINAL AS (
         fights.fight_name,
         fights.report_code,
         fights.is_kill,
-        MAX(
-            CASE
-                WHEN fights.is_kill = TRUE THEN DATEDIFF(
+ DATEDIFF(
                     'seconds',
                     fights.fight_start_time,
                     fight_end_time
                 )
-            END
-        ) AS slowest_kill,
-        list(
-            DISTINCT chars.character_id
-            ORDER BY
-                chars.character_name
-        ) AS list_characters_ids,
-        list(
-            DISTINCT chars.character_name
-            ORDER BY
-                chars.character_name
-        ) AS list_characters_names,
-        COUNT(
-            DISTINCT chars.character_id
-        ) AS cnt_characters,
-        list(
-            classes.class_name
-            ORDER BY
-                classes.class_name
-        ) AS list_class_names,
-        COUNT(
-            DISTINCT classes.class_name
-        ) AS cnt_classes
+            
+         AS fight_duration,
+         list( distinct chars.character_name) as list_chars,
+         list(classes.class_name) as list_classes
     FROM
         fights
         LEFT JOIN chars
@@ -66,9 +46,9 @@ FINAL AS (
         LEFT JOIN classes
         ON fights.report_code = classes.report_code
     GROUP BY
-        fights.report_code, fight_name
+all
     ORDER BY
-        wipes DESC
+        fight_duration DESC
 )
 SELECT
     *
