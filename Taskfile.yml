@@ -25,4 +25,14 @@ tasks:
     dir: ./transform/wcl_dbt/
     cmds:
       - poetry run dbt seed
+
+  load-to-dev:
+    dir: ./transform/wcl_dbt/
+    cmds:
+      - poetry run duckdb dev.duckdb < duckdb_json_load.sql
+  dev-up:
+    dir: ./transform/wcl_dbt/
+    cmds:
+      - poetry run duckdb dev.duckdb
+
   
