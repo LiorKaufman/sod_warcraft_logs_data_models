@@ -1,0 +1,419 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "code": "z9ahXfmQPyrwnLdH",
+                "startTime": 1707802789694,
+                "endTime": 1707813064476,
+                "region": {
+                    "id": 11,
+                    "name": "United States",
+                    "compactName": "US"
+                },
+                "guild": null,
+                "fights": [
+                    {
+                        "id": 2,
+                        "encounterID": 2925,
+                        "name": "Grubbis",
+                        "kill": true,
+                        "endTime": 459461,
+                        "startTime": 359992,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 11,
+                        "encounterID": 2928,
+                        "name": "Viscous Fallout",
+                        "kill": true,
+                        "endTime": 1301645,
+                        "startTime": 1196225,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 17,
+                        "encounterID": 2899,
+                        "name": "Crowd Pummeler 9-60",
+                        "kill": true,
+                        "endTime": 2153442,
+                        "startTime": 2027133,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 27,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": false,
+                        "endTime": 2927278,
+                        "startTime": 2821183,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 29,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": false,
+                        "endTime": 3342824,
+                        "startTime": 3169932,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 31,
+                        "encounterID": 2927,
+                        "name": "Electrocutioner 6000",
+                        "kill": true,
+                        "endTime": 3917041,
+                        "startTime": 3773723,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 37,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": false,
+                        "endTime": 5418973,
+                        "startTime": 5196271,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 39,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": false,
+                        "endTime": 6054099,
+                        "startTime": 5814724,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 40,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": false,
+                        "endTime": 6604688,
+                        "startTime": 6357367,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 41,
+                        "encounterID": 2935,
+                        "name": "Mechanical Menagerie",
+                        "kill": true,
+                        "endTime": 7135431,
+                        "startTime": 6840885,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 42,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": false,
+                        "endTime": 7265335,
+                        "startTime": 7136716,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 43,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": false,
+                        "endTime": 8065581,
+                        "startTime": 7895511,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 44,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": false,
+                        "endTime": 8765529,
+                        "startTime": 8510142,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 45,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": false,
+                        "endTime": 8910244,
+                        "startTime": 8889414,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 46,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": false,
+                        "endTime": 9346544,
+                        "startTime": 9109923,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 47,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": false,
+                        "endTime": 9816488,
+                        "startTime": 9553296,
+                        "size": 10,
+                        "originalEncounterID": null
+                    },
+                    {
+                        "id": 48,
+                        "encounterID": 2940,
+                        "name": "Mekgineer Thermaplugg",
+                        "kill": false,
+                        "endTime": 10272194,
+                        "startTime": 10019938,
+                        "size": 10,
+                        "originalEncounterID": null
+                    }
+                ],
+                "rankedCharacters": [
+                    {
+                        "id": 78373496,
+                        "canonicalID": 78373496,
+                        "name": "Saltxyz",
+                        "classID": 4,
+                        "level": 0
+                    },
+                    {
+                        "id": 79261377,
+                        "canonicalID": 79261377,
+                        "name": "Lasalyn",
+                        "classID": 7,
+                        "level": 60
+                    },
+                    {
+                        "id": 79426982,
+                        "canonicalID": 79426982,
+                        "name": "Syco",
+                        "classID": 3,
+                        "level": 0
+                    },
+                    {
+                        "id": 79529554,
+                        "canonicalID": 79529554,
+                        "name": "Littlebill",
+                        "classID": 3,
+                        "level": 60
+                    },
+                    {
+                        "id": 79529556,
+                        "canonicalID": 79529556,
+                        "name": "Foxberry",
+                        "classID": 8,
+                        "level": 0
+                    },
+                    {
+                        "id": 79530754,
+                        "canonicalID": 79530754,
+                        "name": "Avase",
+                        "classID": 2,
+                        "level": 60
+                    },
+                    {
+                        "id": 79665673,
+                        "canonicalID": 79665673,
+                        "name": "Lïghts",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 79925441,
+                        "canonicalID": 79925441,
+                        "name": "Krsp",
+                        "classID": 2,
+                        "level": 0
+                    },
+                    {
+                        "id": 80891275,
+                        "canonicalID": 80891275,
+                        "name": "Donalfonso",
+                        "classID": 6,
+                        "level": 0
+                    },
+                    {
+                        "id": 80891276,
+                        "canonicalID": 80891276,
+                        "name": "Harmeny",
+                        "classID": 2,
+                        "level": 0
+                    }
+                ],
+                "masterData": {
+                    "actors": [
+                        {
+                            "id": 1,
+                            "gameID": 30962294,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Donalfonso"
+                        },
+                        {
+                            "id": 2,
+                            "gameID": 37326198,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Krsp"
+                        },
+                        {
+                            "id": 3,
+                            "gameID": 31164246,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Syco"
+                        },
+                        {
+                            "id": 4,
+                            "gameID": 32568388,
+                            "server": "WildGrowth",
+                            "subType": "Mage",
+                            "name": "Saltxyz"
+                        },
+                        {
+                            "id": 5,
+                            "gameID": 36766176,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Avase"
+                        },
+                        {
+                            "id": 6,
+                            "gameID": 30809176,
+                            "server": "WildGrowth",
+                            "subType": "Paladin",
+                            "name": "Lïghts"
+                        },
+                        {
+                            "id": 7,
+                            "gameID": 30598845,
+                            "server": "WildGrowth",
+                            "subType": "Hunter",
+                            "name": "Littlebill"
+                        },
+                        {
+                            "id": 8,
+                            "gameID": 31836026,
+                            "server": "WildGrowth",
+                            "subType": "Druid",
+                            "name": "Harmeny"
+                        },
+                        {
+                            "id": 9,
+                            "gameID": 36351950,
+                            "server": "WildGrowth",
+                            "subType": "Priest",
+                            "name": "Lasalyn"
+                        },
+                        {
+                            "id": 10,
+                            "gameID": 30966713,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Magictrip"
+                        },
+                        {
+                            "id": 11,
+                            "gameID": 34496489,
+                            "server": "WildGrowth",
+                            "subType": "Rogue",
+                            "name": "Foxberry"
+                        },
+                        {
+                            "id": 18,
+                            "gameID": 35104646,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Lamdar"
+                        },
+                        {
+                            "id": 19,
+                            "gameID": 35889863,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Icise"
+                        },
+                        {
+                            "id": 59,
+                            "gameID": 30899152,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Vanquished"
+                        },
+                        {
+                            "id": 60,
+                            "gameID": 36007305,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Hadral"
+                        },
+                        {
+                            "id": 61,
+                            "gameID": 38286050,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Seether"
+                        },
+                        {
+                            "id": 62,
+                            "gameID": 30599243,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Laylamachado"
+                        },
+                        {
+                            "id": 63,
+                            "gameID": 30576597,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Epyon"
+                        },
+                        {
+                            "id": 64,
+                            "gameID": 37689766,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Skrëem"
+                        },
+                        {
+                            "id": 65,
+                            "gameID": 36685951,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Misobubbles"
+                        },
+                        {
+                            "id": 66,
+                            "gameID": 30608746,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Sanman"
+                        },
+                        {
+                            "id": 78,
+                            "gameID": 31508250,
+                            "server": "WildGrowth",
+                            "subType": "Unknown",
+                            "name": "Jarclan"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
