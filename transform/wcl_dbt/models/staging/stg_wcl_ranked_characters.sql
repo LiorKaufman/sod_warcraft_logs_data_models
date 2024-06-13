@@ -22,11 +22,11 @@ renamed AS (
         report_code,
         ranked_character as ranked_character_json,
         hash(ranked_character) as hashed_ranked_character_json,
-        ranked_character.id as ranked_character_id,
-        ranked_character.canonicalID as ranked_character_cannonical_id,
-        ranked_character.name as ranked_character_name,
+        ranked_character.id as character_id,
+        ranked_character.canonicalID as character_cannonical_id,
+        ranked_character.name as character_name,
         ranked_character.classID as class_id,
-        ranked_character.level as ranked_character_level,
+        ranked_character.level as character_level,
         created_date,
         uploaded_at
     FROM
