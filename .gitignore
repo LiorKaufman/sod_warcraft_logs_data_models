@@ -162,3 +162,4 @@ cython_debug/
 
 
 /transform/wcl_dbt/seeds/data/*.json
+transform/wcl_dbt/seeds/data/*.json
