@@ -161,4 +161,4 @@ cython_debug/
 #.idea/
 
 
-./transform/seeds/data/*.json
+/transform/seeds/data/*.json
