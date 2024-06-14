@@ -9,15 +9,14 @@ import numpy as np
 
 
 db_path = os.path.join(os.path.dirname(__file__), '../transform/wcl_dbt/dev.duckdb')
-
+print(db_path)
 # Load the dataset
 con = duckdb.connect(db_path)
-data = con.execute('SELECT * FROM rpt_encounters').df()  # Replace with your table name
+data = con.execute('SELECT * FROM rpt_encounters').df()  
 
 # Set the title of the Streamlit app
 st.title("Basic Analysis of Encounter Report Data")
 
-# Display the dataset
 # Explain the data
 st.write("""
 ## About the Data
@@ -35,7 +34,6 @@ ax.set_xlabel('Fight Name')
 ax.set_ylabel('Time (seconds)')
 ax.set_title('Distribution of Kill Times')
 st.pyplot(fig)
-
 
 
 # Extract the relevant columns

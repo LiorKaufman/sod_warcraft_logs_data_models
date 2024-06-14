@@ -2,5 +2,5 @@
 target/
 dbt_packages/
 logs/
-*.duckdb
+# *.duckdb
 seeds/data/*.json
