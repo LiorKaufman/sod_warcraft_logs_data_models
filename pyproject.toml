@@ -15,6 +15,9 @@ fastparquet = "^2024.2.0"
 pydantic = "^2.6.4"
 pydantic-settings = "^2.2.1"
 dbt-duckdb = "^1.7.3"
+streamlit = "^1.35.0"
+matplotlib = "^3.9.0"
+seaborn = "^0.13.2"
 
 
 [build-system]
